@@ -1,9 +1,9 @@
 {
   "name": "cmdserver",
   "version": "1.0.0",
-  "main": "cmd-server.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node cmd-server.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "^4.18.2"
