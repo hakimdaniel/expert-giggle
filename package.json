@@ -1,0 +1,11 @@
+{
+  "name": "cmdserver",
+  "version": "1.0.0",
+  "main": "cmd-server.js",
+  "scripts": {
+    "start": "node cmd-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
